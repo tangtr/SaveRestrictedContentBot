@@ -11,4 +11,4 @@ services:
       BOT_TOKEN: 1361494890:AAENWjBnll8CIi2JzHca_SzPlOEISkIodQo # Bot token, get it from @BotFather 
       SESSION: # Pyrogram string session
       AUTH: 914435206 # User ID of Bot owner
-      FORCESUB: TracyQ1# Username name of public channel without using '@'
+      FORCESUB: TracyQ1 # Username name of public channel without using '@'
