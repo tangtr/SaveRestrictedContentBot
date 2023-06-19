@@ -10,5 +10,5 @@ services:
       API_HASH: 17d046ba2a47f4ef569ee1802ae855d1 # Your API ID from my.telegram.org
       BOT_TOKEN: 1361494890:AAENWjBnll8CIi2JzHca_SzPlOEISkIodQo # Bot token, get it from @BotFather 
       SESSION: # Pyrogram string session
-      AUTH: # User ID of Bot owner
-      FORCESUB: # Username name of public channel without using '@'
+      AUTH: 914435206 # User ID of Bot owner
+      FORCESUB: TracyQ1# Username name of public channel without using '@'
